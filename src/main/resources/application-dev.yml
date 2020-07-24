@@ -1,0 +1,4 @@
+spring:
+  h2:
+    console:
+      enabled: true # 开启 web console 功能
